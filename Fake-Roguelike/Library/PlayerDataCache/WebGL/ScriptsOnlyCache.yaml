@@ -101,6 +101,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -299,6 +300,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 1818}
+    - Class: 114
+      Script: {instanceID: 3010}
+    - Class: 114
+      Script: {instanceID: 3518}
     - Class: 114
       Script: {instanceID: 3694}
     - Class: 115
@@ -1703,7 +1708,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5866}
     - Class: 114
-      Script: {instanceID: 28846}
+      Script: {instanceID: 28484}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2019,11 +2024,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2820}
     - Class: 114
+      Script: {instanceID: 3010}
+    - Class: 114
       Script: {instanceID: 3252}
     - Class: 114
       Script: {instanceID: 3290}
     - Class: 114
       Script: {instanceID: 3506}
+    - Class: 114
+      Script: {instanceID: 3518}
     - Class: 114
       Script: {instanceID: 3656}
     - Class: 114
@@ -3630,7 +3639,7 @@ ScriptsOnlyBuild:
     className: RedSmallHorizontal
   - hash:
       serializedVersion: 2
-      Hash: 4bd0cca20c7fffc718ca26c6d183ead0
+      Hash: dee579a5f514ef95d3f04a8c14103ca3
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Credits

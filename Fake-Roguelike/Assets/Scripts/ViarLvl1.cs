@@ -25,7 +25,7 @@ public class ViarLvl1 : MonoBehaviour
         }
         if (time > 2)
         {
-            PlayerPrefs.SetInt("Progress", 1);
+            if(PlayerPrefs.GetInt("Progress")<2)PlayerPrefs.SetInt("Progress", 1);
             SceneManager.LoadScene("To-LevelSelector");
         }
     }

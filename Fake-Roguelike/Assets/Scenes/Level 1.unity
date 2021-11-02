@@ -303,7 +303,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b242b590953f11499a491abbcf9c4bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: 0
 --- !u!114 &139700093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -339,6 +338,9 @@ MonoBehaviour:
   brunPortrait: {fileID: -935890853147788825, guid: f997220aa2500b141bd736a7646108d2, type: 3}
   profePortrait: {fileID: 21300000, guid: 2e07ca1b61f885a4dbaf1d61ad3752d0, type: 3}
   choferPortrait: {fileID: 0}
+  Karen: {fileID: 0}
+  Jaime: {fileID: 0}
+  KarenJaime: {fileID: 0}
   nameText: {fileID: 1419601100}
   dialogueText: {fileID: 1453259265}
   end: 0
@@ -3616,7 +3618,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 860030374}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.505, y: -1.18, z: 0}
+  m_LocalPosition: {x: 32.44, y: -1.18, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_Children:
   - {fileID: 273203325}
