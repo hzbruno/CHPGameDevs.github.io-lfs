@@ -101,7 +101,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -1704,7 +1703,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5866}
     - Class: 114
-      Script: {instanceID: 41088}
+      Script: {instanceID: 28846}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -4484,4 +4483,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/BusEnd.unity
   - Assets/Scenes/OutsideMat.unity
   - Assets/Scenes/Credits.unity
-  playerPath: C:/Users/madeo/Desktop/Builds
+  playerPath: C:/Users/madeo/Desktop/Builds/WEB

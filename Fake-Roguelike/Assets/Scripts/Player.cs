@@ -62,7 +62,7 @@ public class Player : MonoBehaviour
             }
             else if (PlayerPrefs.GetInt("Progress") == 24)
             {
-                transform.position = new Vector3(3.72f, 0.67f, 0);
+                transform.position = new Vector3(2.38f, 0.615f, 0);
             }
         }
         render = GetComponent<SpriteRenderer>();
@@ -74,10 +74,10 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         //ESTO ES UN DEBUG
-        if (Input.GetButton("Debug"))
+        /*if (Input.GetButton("Debug"))
         {
-            PlayerPrefs.SetInt("Progress", 23);
-        }
+            PlayerPrefs.SetInt("Progress", 24);
+        }*/
 
         if (hp == 0)
         {

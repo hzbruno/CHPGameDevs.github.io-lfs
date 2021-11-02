@@ -3120,7 +3120,7 @@ MonoBehaviour:
   txt2: "\xBFC\xF3mo van con el proyecto?"
   txt3: "\xBFHiciste el deber?"
   txt1ING: Good Morning
-  txt2ING: How are you with the project?
+  txt2ING: How are you doing with the project?
   txt3ING: 'Did you do the task? '
   txt: {fileID: 2028413072}
   txtname: {fileID: 1282232540}
@@ -4298,7 +4298,7 @@ MonoBehaviour:
   txt1: Vos no tenes cara de gato.
   txt2: "\xBF\xBFEh??"
   txt3: No te escucho.
-  txt1ING: You don't have cat face.
+  txt1ING: You don't have a cat face.
   txt2ING: Huh??
   txt3ING: I can't hear you.
   txt: {fileID: 2028413072}

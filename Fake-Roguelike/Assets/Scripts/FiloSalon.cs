@@ -224,7 +224,7 @@ public class FiloSalon : MonoBehaviour
                 "Todo es demasiado conveniente.",
                 "Como estos asientos, ¿No había como treinta personas en el grupo?",
                 "Parece que la realidad se amoldara a nuestra conveniencia.",
-                "Como un videju–",
+                "Como un videoju–",
                 "¿No están llegando tarde a la próxima materia?",
                 "Es verdad, seguro todo son ideas mías.",
                 "No, de hecho, el mundo es un videojuego diseñado por ustedes mismos.",

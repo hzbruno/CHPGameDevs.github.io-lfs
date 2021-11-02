@@ -219,8 +219,8 @@ MonoBehaviour:
   txt2: "Les dije que no iba a ser tan f\xE1cil "
   txt3: "\xBFVino negocios?"
   txt1ING: And, how are the other subjects going?
-  txt2ING: ' told you it wasn''t going to be that easy'
-  txt3ING: Did business come?
+  txt2ING: Told you it wasn't going to be that easy
+  txt3ING: Did Digital Business come?
   txt: {fileID: 1233947492}
   txtname: {fileID: 950293401}
   prof: {fileID: 201722552}
@@ -1022,7 +1022,7 @@ MonoBehaviour:
   txt3: "Dark Souls es para sufrir, no cambiar\xE1n mi opini\xF3n"
   txt1ING: Did you find a good Shapeshifter?
   txt2ING: Going to have a powernap
-  txt3ING: Dark Souls is only to suffer, you would not change my opinion
+  txt3ING: Dark Souls is only for suffering, you won't change my opinion
   txt: {fileID: 1233947492}
   txtname: {fileID: 950293401}
   prof: {fileID: 201722552}
@@ -1470,7 +1470,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 836079452}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.670329, y: 0.6138952, z: -10}
+  m_LocalPosition: {x: 7.024415, y: 0.61339796, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1401908754}
@@ -2860,7 +2860,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1401908753}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.433671, y: 0.0011048317, z: 0}
+  m_LocalPosition: {x: 2.079585, y: 0.0016020536, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1998102379}
