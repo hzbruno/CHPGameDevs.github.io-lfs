@@ -74,9 +74,9 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         //ESTO ES UN DEBUG
-        /*if (Input.GetButton("Debug"))
+       /* if (Input.GetButton("Debug"))
         {
-            PlayerPrefs.SetInt("Progress", 24);
+            PlayerPrefs.SetInt("Progress", 2);
         }*/
 
         if (hp == 0)
